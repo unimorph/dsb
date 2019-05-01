@@ -1,7 +1,7 @@
 # dsb
 
 
-Low Sorbian
+Lower Sorbian
 
 
 Source: Wikipedia
